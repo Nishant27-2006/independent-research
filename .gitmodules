@@ -1,0 +1,72 @@
+[submodule "ddiml"]
+	path = ddiml
+	url = https://github.com/Nishant27-2006/ddiml.git
+[submodule "mlbioprinting"]
+	path = mlbioprinting
+	url = https://github.com/Nishant27-2006/mlbioprinting.git
+[submodule "supplychainml"]
+	path = supplychainml
+	url = https://github.com/Nishant27-2006/supplychainml.git
+[submodule "dynamicprocessingrlml"]
+	path = dynamicprocessingrlml
+	url = https://github.com/Nishant27-2006/dynamicprocessingrlml.git
+[submodule "dynamic-bias-mitigation"]
+	path = dynamic-bias-mitigation
+	url = https://github.com/Nishant27-2006/dynamic-bias-mitigation.git
+[submodule "QML"]
+	path = QML
+	url = https://github.com/Nishant27-2006/QML.git
+[submodule "Additive-Manufacturing-Predictive-Maintenance-Framework"]
+	path = Additive-Manufacturing-Predictive-Maintenance-Framework
+	url = https://github.com/Nishant27-2006/Additive-Manufacturing-Predictive-Maintenance-Framework.git
+[submodule "2018TexasSenate"]
+	path = 2018TexasSenate
+	url = https://github.com/Nishant27-2006/2018TexasSenate.git
+[submodule "HeartValveML"]
+	path = HeartValveML
+	url = https://github.com/Nishant27-2006/HeartValveML.git
+[submodule "businessanalyticsds"]
+	path = businessanalyticsds
+	url = https://github.com/Nishant27-2006/businessanalyticsds.git
+[submodule "CustomerChurn-ML"]
+	path = CustomerChurn-ML
+	url = https://github.com/Nishant27-2006/CustomerChurn-ML.git
+[submodule "HousingPrices-ML"]
+	path = HousingPrices-ML
+	url = https://github.com/Nishant27-2006/HousingPrices-ML.git
+[submodule "CustomerChurn"]
+	path = CustomerChurn
+	url = https://github.com/Nishant27-2006/CustomerChurn.git
+[submodule "Machine-Learning-in-Economics"]
+	path = Machine-Learning-in-Economics
+	url = https://github.com/Nishant27-2006/Machine-Learning-in-Economics.git
+[submodule "OdiaDiction"]
+	path = OdiaDiction
+	url = https://github.com/Nishant27-2006/OdiaDiction.git
+[submodule "QCAttacks"]
+	path = QCAttacks
+	url = https://github.com/Nishant27-2006/QCAttacks.git
+[submodule "APResearchQCSourceCode"]
+	path = APResearchQCSourceCode
+	url = https://github.com/Nishant27-2006/APResearchQCSourceCode.git
+[submodule "mlportfoliomanaging"]
+	path = mlportfoliomanaging
+	url = https://github.com/Nishant27-2006/mlportfoliomanaging.git
+[submodule "chememl"]
+	path = chememl
+	url = https://github.com/Nishant27-2006/chememl.git
+[submodule "educationalml"]
+	path = educationalml
+	url = https://github.com/Nishant27-2006/educationalml.git
+[submodule "neuroml"]
+	path = neuroml
+	url = https://github.com/Nishant27-2006/neuroml.git
+[submodule "soilmicrobiome"]
+	path = soilmicrobiome
+	url = https://github.com/Nishant27-2006/soilmicrobiome.git
+[submodule "environmentfederatedlearning"]
+	path = environmentfederatedlearning
+	url = https://github.com/Nishant27-2006/environmentfederatedlearning.git
+[submodule "raregeneticorders"]
+	path = raregeneticorders
+	url = https://github.com/Nishant27-2006/raregeneticorders.git
